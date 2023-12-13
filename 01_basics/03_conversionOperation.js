@@ -23,3 +23,18 @@
 // let stringNumber = String(someNumber)
 // console.log(stringNumber);
 // console.log(typeof(stringNumber));
+
+//Operations
+let value = 5
+let negValue = -value
+console.log(negValue);
+
+// console.log(2 + 2);
+// console.log(2 - 2);
+// console.log(2 * 2);
+// console.log(2 / 2);
+// console.log(2 ** 3);
+// console.log(4 % 3);
+
+
+
