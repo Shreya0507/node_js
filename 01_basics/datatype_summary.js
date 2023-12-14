@@ -1,4 +1,4 @@
-// Primitive 
+// Primitive => Memory goes into Stack(Get copied value if refer by other variable)
 
 // types :- String, Symbol, Boolean, BigInt, Number, null, undefined
 
@@ -14,7 +14,7 @@ const anotherId = Symbol('123')
 
 console.log(id === anotherId);
 
-// Reference (Non primitive)
+// Reference (Non primitive) => Memory goes into heap(Get original value if refer by other variable)
 // Array, Objects, Functions
 
 const names = ["Shreya", "Priyanka", "Vaibhavi"];
