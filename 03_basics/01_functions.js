@@ -30,13 +30,16 @@
 
 // console.log(loginUserMessage());
 
-function one(){
-    const username = "Shreya"
+// function one(){
+//     const username = "Shreya"
     
-    function two(){
-        const website = "youTube"
-        console.log(username);
-    }
-    two()
-}
-one()
+//     function two(){
+//         const website = "youTube"
+//         console.log(username);
+//     }
+//     two()
+// }
+// one()
+
+
+
