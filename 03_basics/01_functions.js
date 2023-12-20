@@ -19,13 +19,24 @@
 
 // console.log(loginUserMessage("Shreya"));
 
-function loginUserMessage(username){
-    // if (username === undefined) {
-    if (!username) {
-        console.log("Please enter name");
-        return
-    }
-    return `${username} just logged in`
-}
+// function loginUserMessage(username){
+//     // if (username === undefined) {
+//     if (!username) {
+//         console.log("Please enter name");
+//         return
+//     }
+//     return `${username} just logged in`
+// }
 
-console.log(loginUserMessage());
+// console.log(loginUserMessage());
+
+function one(){
+    const username = "Shreya"
+    
+    function two(){
+        const website = "youTube"
+        console.log(username);
+    }
+    two()
+}
+one()
